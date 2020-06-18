@@ -12,7 +12,7 @@
         <h2>Let AJAX change this text <?php echo 4+1 ;?></h2>
         <button type="button" onclick="loadDoc()">Change Content</button>
       </div>
-      <?php
+    Oui :  <?php
     echo 1+1;
 ?>
 </body>
